@@ -1,0 +1,17 @@
+.youtube.com   TRUE   /   TRUE   1762078418   __Secure-1PAPISID   ipmt_dcKqeHijIEX/A8NbFCuyc3NOhclHA
+.youtube.com   TRUE   /   TRUE   1762078418   __Secure-1PSID   g.a000oggmj6-b0BLkFjNBjZuHbaUo1agKdWgbajOvkch0slC0mBp92GKOkB0obKO0CuZrwW0VFAACgYKAYcSARYSFQHGX2MiL9djZEJj_x-VV9RsWRq7eRoVAUF8yKqO47uIuJzz7_NfDz-mPf340076
+.youtube.com   TRUE   /   TRUE   1759054477   __Secure-1PSIDCC   AKEyXzU8K379LmimP2JPG_PyTJhIyUeYoOleYKeFVcqs_iE1CmGzKv7wdTjNKb_-txZgiLNRo68
+.youtube.com   TRUE   /   TRUE   1759054413   __Secure-1PSIDTS   sidts-CjIBQlrA-HfU5SwB6SLwwTsBH3iJ3rN8WIwJv-x8es1G1oO8BXCdQvGrep5r4ey-PAsy0BAA
+.youtube.com   TRUE   /   TRUE   1762078418   __Secure-3PAPISID   ipmt_dcKqeHijIEX/A8NbFCuyc3NOhclHA
+.youtube.com   TRUE   /   TRUE   1762078418   __Secure-3PSID   g.a000oggmj6-b0BLkFjNBjZuHbaUo1agKdWgbajOvkch0slC0mBp9YQKkgxeN_NNLapeV6GPnLAACgYKAVYSARYSFQHGX2MiZHiBuTb7Yryzwo0okkBAZBoVAUF8yKqF-uLFMdc6JjT5FZTbPbqc0076
+.youtube.com   TRUE   /   TRUE   1759054477   __Secure-3PSIDCC   AKEyXzU7W7agVMzsiCs7TZIs7ArfmOKevuTVwKQwZtYeEPwUJC6moHu2G9nJL0MIAoTdqNmWVg
+.youtube.com   TRUE   /   TRUE   1759054413   __Secure-3PSIDTS   sidts-CjIBQlrA-HfU5SwB6SLwwTsBH3iJ3rN8WIwJv-x8es1G1oO8BXCdQvGrep5r4ey-PAsy0BAA
+.youtube.com   TRUE   /   FALSE   1762078418   APISID   Tw-jw6ghyzXnLhi0/AMay7KYzrK9clVdv6
+.youtube.com   TRUE   /   FALSE   1762078418   HSID   Agf3GDA6bya4caagt
+.youtube.com   TRUE   /   TRUE   1762078418   LOGIN_INFO   AFmmF2swRQIhANjdlg6zMLq3Rd5srRM68eMS8sVW663bSrbxA5xEYIicAiAfvDyVWg9H-wveo5DxzYD7HLd5b_pKZQMahNsyqs1jmw:QUQ3MjNmeGV1NVlGNHpHR0tibER2MFo2ajN0cWRYNGh1SFUzem1Wbnl1WDU4aGN5R25YbEtGT1pIeGtKV1dpSUo5RlpXT2tsWWw3NmR3aGtwWDhjVnZZaWI2dzhUSFJ0dTZUSEczcHVpOHU1SHB5MUFmQ3N6blpEdGVMSlJUU0dqTE1rUnlyZ3FYMWJFMldYMjhKV3NFMWRrSXBUaDVWcUVR
+.youtube.com   TRUE   /   TRUE   1762078471   PREF   tz=Asia.Calcutta&f5=30000&f7=100&f4=4000000&f6=40000000
+.youtube.com   TRUE   /   TRUE   1762078418   SAPISID   ipmt_dcKqeHijIEX/A8NbFCuyc3NOhclHA
+.youtube.com   TRUE   /   FALSE   1762078418   SID   g.a000oggmj6-b0BLkFjNBjZuHbaUo1agKdWgbajOvkch0slC0mBp9gSi68RmrmChafqEeFkkuigACgYKAQESARYSFQHGX2MiGwnfYO6Ztr_ims8BJKJpPBoVAUF8yKqvLdBLi7yMF_v00W0GHtbn0076
+.youtube.com   TRUE   /   FALSE   1759054477   SIDCC   AKEyXzVk2zEtyS-bErVjN5ugObCk7bLW4jZryQncQ0jkA9_ODHAHNWu6bUufLp5ZlEFvAxrJ6g
+.youtube.com   TRUE   /   TRUE   1762078418   SSID   ANbQBOHraS4RYyrI4
+.youtube.com   TRUE   /   TRUE   1727518538   YTSESSION-jnufdw   ANPz9KiMUWaQJR3YPgrfwmoXPHoVTpb1Z5a/PVXrg1P8s/zWXwrZQr7OLKZ1CyStycVCrmQpEETG4YxF8lh1B8b46s8QkQGPkU/mR0A=
