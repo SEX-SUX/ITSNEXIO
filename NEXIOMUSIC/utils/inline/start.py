@@ -28,6 +28,10 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",)
         ],
         [
+            InlineKeyboardButton(text="ᴧησηʏϻσᴜs", url=f"HTTPS://T.ME/ITS_NEXIO"),
+            InlineKeyboardButton(text="sᴧᴄʜɪη", url=f"HTTPS://T.ME/V_VIP_OWNER"),
+        ],
+        [
             InlineKeyboardButton(text="侖 ᶦϻͣ ⁣⁤⚚ 𝗦𝝙𝗡𝝙𝗧𝝙𝗡𝗜 侖", url=f"https://t.me/II_SANATANI_II")
         ],
     ]
